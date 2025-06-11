@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baserohit
+- 👋 Hi, I’m Rohit Singh
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
