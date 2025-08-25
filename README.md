@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: <br>
   [Koras - B2B AI Powered Support Platform](github.com/koras)
 
-- 👨‍💻 All of my projects are available at [www.UpdatingSoon.com](www.UpdatingSoon.com)
+- 👨‍💻 All of my projects are available at: <br> [www.UpdatingSoon.com](www.UpdatingSoon.com)
 
 - 💬 Ask me about **React, JavaScript, Python**
 
@@ -21,12 +21,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=baserohit&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=baserohit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baserohit&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baserohit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
