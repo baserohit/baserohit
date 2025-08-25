@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<p align="center">A passionate Web Developer and Data Analyst with experience in building scalable web applications using React.js, Next.js, and Tailwind CSS, and performing data analysis using Python, SQL, Pandas, and NumPy. Skilled in API integration, database design, and cloud deployment (AWS). Looking to contribute to impactful,data-driven solutions.
 
 - 🔭 I’m currently working on: <br>
   [Koras - B2B AI Powered Support Platform](github.com/koras)
