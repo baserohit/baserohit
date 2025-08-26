@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <p align="center">A passionate Web Developer and Data Analyst with experience in building scalable web applications using React.js, Next.js, and Tailwind CSS, and performing data analysis using Python, SQL, Pandas, and NumPy. Skilled in API integration, database design, and cloud deployment (AWS). Looking to contribute to impactful,data-driven solutions.
 
+<img align="right" alt="react-logo" width="400" height="400" src="https://github.com/baserohit/baserohit/blob/main/react-logo.svg">
+
 - 🌱 I’m currently learning Golang
 
 - 🔭 I’m currently working on: <br>
