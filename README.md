@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-omega-sandy.vercel.app/?username=baserohit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy-omega-sandy.vercel.app/?username=baserohit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
