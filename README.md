@@ -31,4 +31,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baserohit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=baserohit&theme=onedark)](https://github.com/baserohit/github-profile-trophy)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
